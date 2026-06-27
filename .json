@@ -1,0 +1,7 @@
+$env:ANTHROPIC_BASE_URL="https://agentrouter.org/"
+$env:ANTHROPIC_API_KEY="sk-4ICzHUqNQ2Ay9CRDHT4zgd1tc2hs13e8gwGatxP2eMz7rfyi"
+
+echo $env:ANTHROPIC_BASE_URL
+echo $env:ANTHROPIC_API_KEY
+
+ 
